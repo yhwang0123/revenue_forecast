@@ -22,11 +22,11 @@ a dataset with more than 50.000 entries provided by the client
 
 
 ### Files in this repo
-1. data_clean.ipynb\
+1. *data_clean.ipynb*\
 file for data exploring, wrangling and cleaning, and get the final dataset for training
-2. model_selection.ipynb\
-try diferent regression model, and choose based on their r2 score
-3. Final_model.ipynb\
+2. *model_selection.ipynb*\
+try different regression models, and select the best one based on their evaluation
+3. *Final_model.ipynb*\
 fine tune the final model for training
 
 ### Workflow for this project
@@ -94,5 +94,5 @@ we use maily two metrics to evaluate our model.
 1. R squared score (0.88 for ExtraTreesRegressor )
 2. Cross validation (0.66 for ExtraTreesRegressor)
 
-Based on the score we have, we finally select ExtraTreesRegressor as our model to do the prediction.
+Based on the score we got, we finally selected ExtraTreesRegressor as our model to do the prediction.
 

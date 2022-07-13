@@ -13,9 +13,9 @@ Mission: create a Machine Learning model to predict the company's revenue for cu
 
 ### Objectives:
 
-- [x]Using Pandas for data manipulation.
-- [x]Using MatplotLib and/or Seaborn for plotting.
-- [x]Finding and understanding correlations between dataset's variables.
+- [x]Be able to preprocess data for machine learning.
+- [x]Be able to train, apply and evaluate a regression model with real-world data.
+
 
 ### Dataset: 
 a dataset with more than 50.000 entries provided by the client
